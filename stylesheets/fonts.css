@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "PP Object Sans Regular";
+    src: url("../fonts/PPObjectSans-Regular.otf");
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "PP Object Sans Heavy";
+    src: url("../fonts/PPObjectSans-Heavy.otf");
+    font-weight: 800;
+  }
+  
+  @font-face {
+    font-family: "TT Trailers Trial Bold";
+    src: url("../fonts/TTTrailersTrial-Bold.ttf");
+    font-weight: 700;
+  }
